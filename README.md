@@ -1,3 +1,3 @@
-# Project Title Goes Here
+# Mancala Game 
 
 Info about your project goes here
